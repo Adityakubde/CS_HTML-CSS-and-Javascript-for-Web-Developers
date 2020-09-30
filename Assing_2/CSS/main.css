@@ -5,7 +5,7 @@
   margin: 0;
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
-  transition: 0.6s;
+  transition: 0.5s;
 }
 
 .heading {
@@ -15,14 +15,10 @@
   text-decoration: underline;
 }
 .container {
-  /* margin: 20px;
-  margin-top: 3%; */
   padding: 10px;
 
   width: fit-content;
   min-height: auto;
-  /* height: ; */
-  /* background-color: antiquewhite; */
 }
 
 @media (min-width: 992px) {
