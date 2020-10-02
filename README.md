@@ -8,4 +8,4 @@ https://adityakubde.github.io/CS_HTML-CSS-and-Javascript-for-Web-Developers/Assi
 <br>
 
 Assignment 3:
-https://adityakubde.github.io/CS_HTML-CSS-and-Javascript-for-Web-Developers/Assing_3/
+https://adityakubde.github.io/CS_HTML-CSS-and-Javascript-for-Web-Developers/Assing_3/index.html

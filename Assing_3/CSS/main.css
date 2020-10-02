@@ -7,6 +7,11 @@
   font-family: "Roboto", sans-serif;
   transition: 0.5s;
 } */
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: #64485c;
 }
